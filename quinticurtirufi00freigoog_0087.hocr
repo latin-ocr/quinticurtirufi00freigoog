@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quinticurtirufi00freigoog_0087.png"; bbox 0 0 2858 4782; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 637 1371 1142 1433">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 637 1371 1142 1433">
+     <span class='ocr_line' id='line_1_1' title="bbox 637 1371 1142 1433; baseline 0.004 -18"><span class='ocrx_word' id='word_1_1' title='bbox 637 1371 704 1419; x_wconf 78' lang='lat' dir='ltr'><strong><em>Q,</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 729 1374 900 1419; x_wconf 59' lang='grc' dir='ltr'><strong>(Ἲυκτ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 925 1386 1036 1433; x_wconf 73' lang='lat' dir='ltr'><strong><em>pag.</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1060 1378 1142 1421; x_wconf 80' lang='lat'><strong><em>69.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1252 3269 1931 3424">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1252 3269 1931 3424">
+     <span class='ocr_line' id='line_1_2' title="bbox 1338 3269 1841 3335; baseline 0.008 -18"><span class='ocrx_word' id='word_1_5' title='bbox 1338 3269 1379 3317; x_wconf 81' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1392 3270 1841 3335; x_wconf 77' lang='lat' dir='ltr'><strong>RIS&#39;POTELES,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1252 3356 1931 3424; baseline 0.013 -20"><span class='ocrx_word' id='word_1_7' title='bbox 1252 3356 1334 3405; x_wconf 75' lang='lat' dir='ltr'><strong><em>Ex</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1371 3358 1573 3407; x_wconf 68' lang='lat' dir='ltr'><strong><em>Bouaria·</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1614 3363 1931 3424; x_wconf 75' lang='lat' dir='ltr'><strong><em>Imaginibus.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

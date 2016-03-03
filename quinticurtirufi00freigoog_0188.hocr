@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quinticurtirufi00freigoog_0188.png"; bbox 0 0 2858 4782; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 161 1096 2161 3413">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 161 1096 2161 3413">
+     <span class='ocr_line' id='line_1_1' title="bbox 161 1096 2161 3413; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 161 1096 2161 3413; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 193 3454 2088 3635">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 193 3454 2088 3635">
+     <span class='ocr_line' id='line_1_2' title="bbox 783 3454 1475 3509; baseline 0.001 -4"><span class='ocrx_word' id='word_1_2' title='bbox 783 3454 1122 3507; x_wconf 76' lang='lat' dir='ltr'>THESSALI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1157 3454 1475 3509; x_wconf 64' lang='lat' dir='ltr'>nomas.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 193 3568 2088 3635; baseline 0 -14"><span class='ocrx_word' id='word_1_4' title='bbox 193 3572 262 3621; x_wconf 69' lang='lat' dir='ltr'><strong><em>E:</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 283 3571 462 3634; x_wconf 70' lang='lat' dir='ltr'><strong><em>Bega-i</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 483 3570 620 3622; x_wconf 65' lang='lat' dir='ltr'><strong><em>Theo.</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 639 3570 876 3621; x_wconf 64' lang='lat' dir='ltr'><strong><em>Nunnium.</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 902 3570 1065 3621; x_wconf 58' lang='lat' dir='ltr'><strong><em>Palas.</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1083 3586 1136 3635; x_wconf 78' lang='lat' dir='ltr'><strong><em>p.</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1157 3574 1272 3623; x_wconf 73' lang='lat'><strong><em>262.</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1295 3576 1345 3619; x_wconf 74' lang='lat' dir='ltr'><strong><em>et</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1366 3568 1547 3620; x_wconf 69' lang='lat' dir='ltr'><strong><em>Gelen&#39;z&#39;</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1570 3570 1763 3620; x_wconf 71' lang='lat' dir='ltr'><strong><em>Gracia</em></strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1790 3570 1904 3621; x_wconf 70' lang='lat' dir='ltr'><strong><em>m.</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1930 3570 2088 3622; x_wconf 67' lang='lat' dir='ltr'><strong><em>xm.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
